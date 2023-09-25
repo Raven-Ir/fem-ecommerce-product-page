@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com](https://www.frontendmentor.io/solutions/ecommerce-product-page-built-with-reactjs-and-tailwindcss-xLIfn8AP_Q))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://fem-ecommerce-product-page-rho.vercel.app/))
+- Solution URL: [Solution Url](https://www.frontendmentor.io/solutions/ecommerce-product-page-built-with-reactjs-and-tailwindcss-xLIfn8AP_Q)
+- Live Site URL: [Live Site Url](https://fem-ecommerce-product-page-rho.vercel.app/)
 
 ## My process
 
